@@ -11,210 +11,190 @@
 ---
 
 ## 🌐 Live Demo
+- Frontend: https://digital-diary-frontend.onrender.com
+- Backend: https://digital-diary-backend-0n51.onrender.com
 
-Frontend
-
-https://digital-diary-frontend.onrender.com
-
-Backend
-
-https://digital-diary-backend-0n51.onrender.com
+> **Note:** Hosted on Render's free tier — the first load may take ~30-60 seconds to spin up.
 
 ---
 
 ## 📂 Source Code
-
-Frontend Repository
-
-https://github.com/PallatiTejasree/Digital-diary-frontend
-
-Backend Repository
-
-https://github.com/PallatiTejasree/Digital-diary-backend
+- Frontend Repository: https://github.com/PallatiTejasree/Digital-diary-frontend
+- Backend Repository: https://github.com/PallatiTejasree/Digital-diary-backend
 
 ---
 
-# 📌 Project Overview
-
-Digital Diary is a full-stack web application that allows users to securely write, manage, and reflect on their personal memories.
-
-The application provides JWT-based authentication, CRUD diary management, AI-powered reflections, and cloud deployment, making it accessible from any device.
+## 📌 Project Overview
+Digital Diary is a full-stack web application that allows users to securely write, manage, and reflect on their personal memories. It provides JWT-based authentication, full CRUD diary management, AI-powered reflections, and cloud deployment, making it accessible from any device.
 
 ---
 
-# ✨ Features
-
-- Secure Login using JWT Authentication
-- Personal Diary Entries
-- Create Memories
-- Edit Memories
-- Delete Memories
-- Timeline View
-- Profile Page
-- Archive Memories
-- AI Reflection Generation
-- Responsive UI
-- Mobile Friendly
-- Cloud Hosted
+## ✨ Features
+- Secure login using JWT authentication
+- Create, edit, and delete diary entries
+- Timeline view of past memories
+- Archive memories
+- AI-powered reflection generation
+- Profile page
+- Responsive, mobile-friendly UI
+- Cloud-hosted and accessible from any device
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Frontend
-
+**Frontend**
 - React
 - React Router
 - CSS3
 - JavaScript
 
-## Backend
-
+**Backend**
 - FastAPI
 - SQLAlchemy
 - JWT Authentication
 - Passlib
 - Python
 
-## Database
-
+**Database**
 - PostgreSQL
 
-## Deployment
-
+**Deployment**
 - Render
 
-## Version Control
-
-- Git
-- GitHub
+**Version Control**
+- Git, GitHub
 
 ---
 
-# 🏗 System Architecture
-
+## 🏗 System Architecture
 ```
-
 React Frontend
-│
-│ REST API
-▼
+      │
+      │  REST API
+      ▼
 FastAPI Backend
-│
-│ SQLAlchemy
-▼
+      │
+      │  SQLAlchemy ORM
+      ▼
 PostgreSQL Database
-
 ```
 
 ---
 
-# 📱 Application Screens
-
-- Splash Screen
-- Login
-- Home Dashboard
-- Editor
-- Timeline
-- Reflection
-- Profile
-- Archive
-
----
-
-# 📁 Project Structure
-
+## 📁 Project Structure
 ```
-
 Digital Diary
-│
 ├── Frontend (React)
-│
 ├── Backend (FastAPI)
-│
 └── PostgreSQL Database
-
 ```
 
 ---
 
-# 🔒 Authentication
-
-The application uses JWT Authentication.
-
+## 🔒 Authentication
+The application uses JWT authentication for secure user sessions.
 - Login API
-- Protected Routes
-- Token Verification
-- Secure User Sessions
+- Protected routes
+- Token verification
+- Secure user sessions
 
 ---
 
-# 📚 APIs
+## 📚 APIs
 
-### User
+**User**
+- `POST /signup`
+- `POST /login`
+- `GET /me`
 
-- POST /signup
-- POST /login
-- GET /me
+**Diary**
+- `GET /diary`
+- `POST /diary`
+- `PUT /diary/{id}`
+- `DELETE /diary/{id}`
 
-### Diary
-
-- GET /diary
-- POST /diary
-- PUT /diary/{id}
-- DELETE /diary/{id}
-
-### Reflection
-
-- POST /reflection
+**Reflection**
+- `POST /reflection`
 
 ---
 
-# 🚀 Deployment
-
-Frontend
-
-Render Static Site
-
-Backend
-
-Render Web Service
-
-Database
-
-PostgreSQL
+## 🚀 Deployment
+- Frontend — Render Static Site
+- Backend — Render Web Service
+- Database — PostgreSQL
 
 ---
 
-# 🎯 Future Enhancements
-
-- Password Reset
-- Email Verification
-- Mood Analytics
-- Calendar View
-- Image Uploads
-- Voice Notes
-- PWA Support
-- Dark Mode
+## 🎯 Future Enhancements
+- Password reset
+- Email verification
+- Mood analytics
+- Calendar view
+- Image uploads
+- Voice notes
+- PWA support
+- Dark mode
 
 ---
 
-# 👩‍💻 Author
-
+## 👩‍💻 Author
 **Tejasree Pallati**
+Electronics and Communication Engineering Graduate, CBIT Hyderabad
 
-Electronics and Communication Engineering Graduate
+- GitHub: https://github.com/PallatiTejasree
+- LinkedIn: https://www.linkedin.com/in/tejasree-pallati-71465b301/
 
-CBIT Hyderabad
+---
+---
 
-GitHub
+## 📸 Application Screenshots
 
-https://github.com/PallatiTejasree
+### 🌟 Splash Screen
 
-LinkedIn
-
-https://www.linkedin.com/in/tejasree-pallati-71465b301/
+![Splash Screen](Frontend/Images/Splash-Screen.png)
 
 ---
 
+### 🔐 Login Page
+
+![Login Page](Frontend/Images/Login-Page.png)
+
+---
+
+### 🏠 Home Page
+
+![Home Page](Frontend/Images/Home-Page.png)
+
+---
+
+### 📊 Editor Dashboard
+
+![Editor Dashboard](Frontend/Images/Editor-Dashboard.png)
+
+---
+
+### ✍️ Editor Main Page
+
+![Editor Main Page](Frontend/Images/Editor-Main-Page.png)
+
+---
+
+### 🌸 Reflection Dashboard
+
+![Reflection Dashboard](Frontend/Images/Reflection-Dashboard.png)
+
+---
+
+### 📈 Mood Analytics
+
+![Mood Analytics](Frontend/Images/Mood-Analytics.png)
+
+---
+
+### 🤖 AI Insights
+
+![AI Insights](Frontend/Images/AI-Insights.png)
+
+---
 ⭐ If you like this project, consider giving it a star.
