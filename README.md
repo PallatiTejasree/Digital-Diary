@@ -213,7 +213,7 @@ https://github.com/PallatiTejasree
 
 LinkedIn
 
-(Add your LinkedIn URL)
+https://www.linkedin.com/in/tejasree-pallati-71465b301/
 
 ---
 
