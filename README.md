@@ -146,55 +146,54 @@ Electronics and Communication Engineering Graduate, CBIT Hyderabad
 - LinkedIn: https://www.linkedin.com/in/tejasree-pallati-71465b301/
 
 ---
----
 
-## 📸 Application Screenshots
+# 📸 Application Screenshots
 
-### 🌟 Splash Screen
+## 🌟 Splash Screen
 
-![Splash Screen](Frontend/Images/Splash-Screen.png)
-
----
-
-### 🔐 Login Page
-
-![Login Page](Frontend/Images/Login-Page.png)
+![Splash Screen](Splash-Screen.png)
 
 ---
 
-### 🏠 Home Page
+## 🔐 Login Page
 
-![Home Page](Frontend/Images/Home-Page.png)
-
----
-
-### 📊 Editor Dashboard
-
-![Editor Dashboard](Frontend/Images/Editor-Dashboard.png)
+![Login Page](Login-Page.png)
 
 ---
 
-### ✍️ Editor Main Page
+## 🏠 Home Page
 
-![Editor Main Page](Frontend/Images/Editor-Main-Page.png)
-
----
-
-### 🌸 Reflection Dashboard
-
-![Reflection Dashboard](Frontend/Images/Reflection-Dashboard.png)
+![Home Page](Home-Page.png)
 
 ---
 
-### 📈 Mood Analytics
+## 📊 Editor Dashboard
 
-![Mood Analytics](Frontend/Images/Mood-Analytics.png)
+![Editor Dashboard](Editor-Dashboard
+.png)
 
 ---
 
-### 🤖 AI Insights
+## ✍️ Editor Main Page
 
-![AI Insights](Frontend/Images/AI-Insights.png)
+![Editor Main Page](Editor-Main-Page.png)
 
+---
+
+## 🌸 Reflection Dashboard
+
+![Reflection Dashboard](Reflection-Dashboard.png)
+
+---
+
+## 📈 Mood Analytics
+
+![Mood Analytics](Mood-Analytics.png)
+
+---
+
+## 🤖 AI Insights
+
+![AI Insights](AI-Insights.png)
 ---
 ⭐ If you like this project, consider giving it a star.
