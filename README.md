@@ -169,8 +169,7 @@ Electronics and Communication Engineering Graduate, CBIT Hyderabad
 
 ## 📊 Editor Dashboard
 
-![Editor Dashboard](Editor-Dashboard
-.png)
+![Editor Dashboard](Editor-Dashboard.png)
 
 ---
 
